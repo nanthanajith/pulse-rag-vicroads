@@ -1,0 +1,16 @@
+W01Q01 Q0 P01 1 70.504890 vicroads-dense
+W01Q01 Q0 P04 2 68.588562 vicroads-dense
+W01Q01 Q0 P02 3 67.623024 vicroads-dense
+W01Q01 Q0 P03 4 64.568291 vicroads-dense
+W01Q02 Q0 P01 1 68.840790 vicroads-dense
+W01Q02 Q0 P04 2 68.313507 vicroads-dense
+W01Q02 Q0 P02 3 67.650276 vicroads-dense
+W01Q02 Q0 P03 4 64.994766 vicroads-dense
+W02Q01 Q0 P02 1 67.964035 vicroads-dense
+W02Q01 Q0 P03 2 65.316162 vicroads-dense
+W02Q01 Q0 P01 3 64.387054 vicroads-dense
+W02Q01 Q0 P04 4 64.330978 vicroads-dense
+W02Q02 Q0 P02 1 67.667641 vicroads-dense
+W02Q02 Q0 P01 2 65.876114 vicroads-dense
+W02Q02 Q0 P04 3 65.417542 vicroads-dense
+W02Q02 Q0 P03 4 65.361259 vicroads-dense
