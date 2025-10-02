@@ -1,6 +1,19 @@
 # search.py - VicRoads RAG retrieval (dense + BM25, for chatbot & eval)
 import os
 import pandas as pd
+# Silence Lucene INFO log emitted on Java 21 when MemorySegmentIndexInput activates.
+JAVA_OPTIONS_FLAG = "-Dorg.apache.lucene.store.MMapDirectory.enableMemorySegments=false"
+
+
+def _ensure_java_flag(env_var: str) -> None:
+    existing = os.environ.get(env_var, "")
+    if JAVA_OPTIONS_FLAG not in existing:
+        os.environ[env_var] = f"{existing} {JAVA_OPTIONS_FLAG}".strip()
+
+
+for _env_var in ("PYTHON_JAVA_OPTIONS", "JAVA_TOOL_OPTIONS", "JDK_JAVA_OPTIONS"):
+    _ensure_java_flag(_env_var)
+
 from pyserini.search.faiss import FaissSearcher
 from pyserini.search.lucene import LuceneSearcher
 from pyserini.index.lucene import LuceneIndexer
