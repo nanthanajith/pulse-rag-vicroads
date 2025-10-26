@@ -3,11 +3,11 @@
 A Retrieval-Augmented Generation (RAG) project for VicRoads. It combines dense and BM25 retrieval over a small curated collection with a local LLM (via Ollama) to answer user questions. It also includes an evaluation pipeline that produces TREC-style run files and reports classic ranking metrics.
 
 Key pieces:
-- Streamlit chatbot UI with simple multi-thread conversations (`src/app.py`).
 - Retrieval using Pyserini: dense (FAISS over ColBERT embeddings) and BM25 (`src/search.py`).
 - Data preparation and qrels creation (`src/data.py`).
 - Evaluation using Ranx (NDCG and MRR) from TREC runs (`src/eval.py`).
 - Local generation via Ollama (default model `llama3`).
+- Streamlit chatbot UI with simple multi-thread conversations (`src/app.py`).
 
 ## Repository Structure
 - `src/app.py` – Streamlit app for the VicRoads chatbot UI.
