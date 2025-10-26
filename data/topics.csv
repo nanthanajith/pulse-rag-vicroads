@@ -1,5 +1,121 @@
-"topic_id","Topic","question_id","question"
-"W01","What is VicRoads service?","W01Q01","What services does VicRoads provide?"
-"W01","What is VicRoads service?","W01Q02","Which services are available at VicRoads?"
-"W02","How to renew license?","W02Q01","How do I renew my driver license?"
-"W02","How to renew license?","W02Q02","Steps to renew a driving license?"
+topic_id,Topic,question_id,question
+W01,What is VicRoads service?,W01Q01,What services does VicRoads provide?
+W01,What is VicRoads service?,W01Q02,Which services are available at VicRoads?
+W01,What is VicRoads service?,W01Q03,What does VicRoads do?
+W02,How to renew licence?,W02Q01,How do I renew my driver licence?
+W02,How to renew licence?,W02Q02,Steps to renew a driving licence?
+W02,How to renew licence?,W02Q03,Can I renew my licence online?
+W03,Booking tests,W03Q01,How do I book a hazard perception test?
+W03,Booking tests,W03Q02,Can I book a drive test online?
+W03,Booking tests,W03Q03,How do I book a drive test?
+W04,Vehicle transfer,W04Q01,How do I transfer my vehicle?
+W04,Vehicle transfer,W04Q02,What fees are payable for a transfer?
+W04,Vehicle transfer,W04Q03,How do I pay vehicle transfer fees?
+W05,Replace lost licence,W05Q01,"I lost my licence, what do I do?"
+W05,Replace lost licence,W05Q02,How do I replace a lost licence online?
+W05,Replace lost licence,W05Q03,What if my licence is damaged or stolen?
+W06,Change of address,W06Q01,How do I update my address with VicRoads?
+W06,Change of address,W06Q02,Can I update my address online?
+W06,Change of address,W06Q03,When should I update my address?
+W07,Learner permit,W07Q01,What are the requirements for a learner permit?
+W07,Learner permit,W07Q02,How old do I need to be for a learner permit?
+W07,Learner permit,W07Q03,What tests do I need for a learner permit?
+W08,Registration renewal,W08Q01,How can I renew my registration?
+W08,Registration renewal,W08Q02,What renewal periods are available?
+W08,Registration renewal,W08Q03,Can I renew my registration online?
+W09,Payment methods,W09Q01,What payment methods does VicRoads accept?
+W09,Payment methods,W09Q02,Does VicRoads accept BPAY?
+W09,Payment methods,W09Q03,Can I pay at a Customer Service Centre?
+W10,Change of name,W10Q01,How do I change my name on my licence?
+W10,Change of name,W10Q02,How can I update my name with VicRoads?
+W10,Change of name,W10Q03,What documents do I need to change my name?
+W11,Interstate licence transfer,W11Q01,How do I transfer my interstate licence to Victoria?
+W11,Interstate licence transfer,W11Q02,What documents do I need for an interstate licence transfer?
+W11,Interstate licence transfer,W11Q03,Do I need to visit a service centre to transfer an interstate licence?
+W12,Registration check,W12Q01,How can I check my registration status?
+W12,Registration check,W12Q02,How do I check if my rego is current?
+W12,Registration check,W12Q03,Where can I check registration status online?
+W13,Custom number plates,W13Q01,How do I order custom number plates?
+W13,Custom number plates,W13Q02,Can I order custom plates online?
+W13,Custom number plates,W13Q03,How are custom plates delivered?
+W14,Club permit,W14Q01,How do I apply for a club permit?
+W14,Club permit,W14Q02,What are the requirements for a club permit?
+W14,Club permit,W14Q03,Do club permit vehicles have different registration requirements?
+W15,Roadworthy certificate,W15Q01,When do I need a roadworthy certificate?
+W15,Roadworthy certificate,W15Q02,When is a roadworthy needed for transfer?
+W15,Roadworthy certificate,W15Q03,Who can issue a roadworthy certificate?
+W16,Vehicle inspection,W16Q01,How do I book a vehicle inspection with VicRoads?
+W16,Vehicle inspection,W16Q02,How do I know if an inspection is required?
+W16,Vehicle inspection,W16Q03,What do I bring to a vehicle inspection?
+W17,Heavy vehicle licence,W17Q01,What are the requirements for a heavy vehicle licence?
+W17,Heavy vehicle licence,W17Q02,What medical requirements apply for heavy vehicle licences?
+W17,Heavy vehicle licence,W17Q03,Do I need training or assessment for a heavy vehicle licence?
+W18,Motorcycle LAMS,W18Q01,What is LAMS and which bikes can learners ride?
+W18,Motorcycle LAMS,W18Q02,Which motorcycles can learner riders use?
+W18,Motorcycle LAMS,W18Q03,What are LAMS requirements?
+W19,Demerit points,W19Q01,How do I check my demerit points?
+W19,Demerit points,W19Q02,Can I check my demerit points online?
+W19,Demerit points,W19Q03,Where do I view my licence status?
+W20,Interlock,W20Q01,What are alcohol interlock requirements?
+W20,Interlock,W20Q02,What is an interlock condition on a licence?
+W20,Interlock,W20Q03,Can I drive without an interlock if I have an interlock condition?
+W21,Reschedule tests,W21Q01,Can I reschedule my drive test?
+W21,Reschedule tests,W21Q02,Can I cancel a drive test online?
+W21,Reschedule tests,W21Q03,Are there fees to reschedule a test?
+W22,myVicRoads account,W22Q01,How do I create a myVicRoads account?
+W22,myVicRoads account,W22Q02,What can I do with a myVicRoads account?
+W22,myVicRoads account,W22Q03,How do I sign up for myVicRoads?
+W23,Replace number plates,W23Q01,What do I do if my number plates are lost or stolen?
+W23,Replace number plates,W23Q02,How do I replace damaged number plates?
+W23,Replace number plates,W23Q03,Do I need a police report for stolen plates?
+W24,Proof of identity,W24Q01,What identity documents do I need for VicRoads services?
+W24,Proof of identity,W24Q02,What proof of identity is required?
+W24,Proof of identity,W24Q03,Do I need proof of address for VicRoads transactions?
+W25,Selling a car,W25Q01,What are my responsibilities when selling my car?
+W25,Selling a car,W25Q02,How does the buyer complete the transfer?
+W25,Selling a car,W25Q03,Do I need a receipt when selling my car?
+W26,Overseas licence transfer,W26Q01,How do I convert an overseas licence to a Victorian licence?
+W26,Overseas licence transfer,W26Q02,What documents do I need to transfer my overseas licence?
+W26,Overseas licence transfer,W26Q03,Will I need to take tests to transfer an overseas licence?
+W27,Medical fitness to drive,W27Q01,Do I need to tell VicRoads about my medical condition?
+W27,Medical fitness to drive,W27Q02,What medical reports are required for driving?
+W27,Medical fitness to drive,W27Q03,Can conditions be added to my licence due to health?
+W28,Vehicle identity validation,W28Q01,What is a VIV inspection?
+W28,Vehicle identity validation,W28Q02,When is a VIV required?
+W28,Vehicle identity validation,W28Q03,How do I get a VIV inspection for a repaired write-off?
+W29,Unregistered vehicle permit,W29Q01,What is an unregistered vehicle permit?
+W29,Unregistered vehicle permit,W29Q02,How do I apply for a permit to move an unregistered vehicle?
+W29,Unregistered vehicle permit,W29Q03,What conditions apply to an unregistered vehicle permit?
+W30,Proof of ownership,W30Q01,What proof of ownership do I need for a vehicle?
+W30,Proof of ownership,W30Q02,What details should be on a vehicle receipt?
+W30,Proof of ownership,W30Q03,How do I prove ownership when transferring a vehicle?
+W31,Probationary licence conditions,W31Q01,What are the conditions for P plate drivers?
+W31,Probationary licence conditions,W31Q02,Do I need to display P plates?
+W31,Probationary licence conditions,W31Q03,What restrictions apply to probationary drivers?
+W32,Learner logbook hours,W32Q01,How do I record learner logbook hours?
+W32,Learner logbook hours,W32Q02,How many hours do I need as a learner?
+W32,Learner logbook hours,W32Q03,Can I use an app instead of a paper logbook?
+W33,Concessions,W33Q01,Who is eligible for registration or licence fee concessions?
+W33,Concessions,W33Q02,How do I apply a concession to my registration?
+W33,Concessions,W33Q03,Do concession discounts apply to licence fees?
+W34,Change garaging address,W34Q01,How do I change a vehicle’s garaging address?
+W34,Change garaging address,W34Q02,Do I need to tell VicRoads if my garaging address changes?
+W34,Change garaging address,W34Q03,Can I update the garaging address online?
+W35,Demerit suspension options,W35Q01,What happens if I reach the demerit point limit?
+W35,Demerit suspension options,W35Q02,What is a good behaviour period?
+W35,Demerit suspension options,W35Q03,Can I choose a good behaviour option instead of suspension?
+W36,Licence check service,W36Q01,How can I check a Victorian licence status?
+W36,Licence check service,W36Q02,What details do I need to check a licence?
+W36,Licence check service,W36Q03,Do I need consent to check someone’s licence?
+W37,Update contact details,W37Q01,How do I update my email with VicRoads?
+W37,Update contact details,W37Q02,How do I update my phone number in myVicRoads?
+W37,Update contact details,W37Q03,Can I change my contact details online?
+W38,Replacement registration certificate,W38Q01,How do I get a replacement registration certificate?
+W38,Replacement registration certificate,W38Q02,Can I order a replacement rego certificate online?
+W38,Replacement registration certificate,W38Q03,Is there a fee to replace a registration certificate?
+W39,Transfer fees and duty,W39Q01,What fees and duty apply to a vehicle transfer?
+W39,Transfer fees and duty,W39Q02,How is motor vehicle duty calculated?
+W39,Transfer fees and duty,W39Q03,When do I pay transfer fees and duty?
+W40,Club permit renewal,W40Q01,How do I renew a club permit?
+W40,Club permit renewal,W40Q02,What forms do I need to renew a club permit?
+W40,Club permit renewal,W40Q03,Can I renew a club permit through my club?

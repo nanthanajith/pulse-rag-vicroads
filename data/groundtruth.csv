@@ -1,4 +1,48 @@
-"topic_id","topic","passage_id","passage","relevance_judgment"
-"W01","What is VicRoads service?","P01","VicRoads provides licensing, registration, and road safety services.",2
-"W01","What is VicRoads service?","P03","Payment options include credit card, BPAY, and in-person at service centers.",1
-"W02","How to renew license?","P02","You can renew your driver license online or at a VicRoads office.",2
+topic_id,topic,passage_id,passage,relevance_judgment
+W01,What is VicRoads service?,P01,"VicRoads provides licensing, registration, and road safety services.",2
+W01,What is VicRoads service?,P03,"Payment options include credit card, BPAY, and in-person at service centres.",1
+W02,How to renew licence?,P02,You can renew your driver licence online or at a VicRoads office.,2
+W03,Booking tests,P05,You can book a drive test and hazard perception test online via your myVicRoads account.,2
+W04,Vehicle transfer,P06,"To transfer a vehicle, the buyer and seller complete an online transfer and pay applicable transfer fee and duty.",2
+W04,Vehicle transfer,P12,"You can pay VicRoads fees with Visa, Mastercard, BPAY, or at a Customer Service Centre.",1
+W05,Replace lost licence,P07,"If your driver licence is lost, stolen or damaged, you can order a replacement online after verifying your identity.",2
+W06,Change of address,P08,You should update your address with VicRoads soon after you move.,2
+W07,Learner permit,P09,Learner permit applicants must be at least 16 years old and pass an eyesight check and a learner permit test.,2
+W08,Registration renewal,P10,"Registration renewal notices show the amount due and due date; you can renew for 3, 6 or 12 months.",2
+W08,Registration renewal,P03,"Payment options include credit card, BPAY, and in-person at service centres.",1
+W08,Registration renewal,P12,"You can pay VicRoads fees with Visa, Mastercard, BPAY, or at a Customer Service Centre.",1
+W09,Payment methods,P03,"Payment options include credit card, BPAY, and in-person at service centres.",2
+W09,Payment methods,P12,"You can pay VicRoads fees with Visa, Mastercard, BPAY, or at a Customer Service Centre.",2
+W10,Change of name,P13,"To change your name on your licence or registration, update your details online and provide evidence of the name change (for example, a marriage certificate).",2
+W11,Interstate licence transfer,P14,"If you hold an interstate licence, you can transfer to a Victorian licence by visiting a Customer Service Centre with identity and Victorian residency documents.",2
+W12,Registration check,P15,You can check a vehicles registration status online using the number plates (registration number).,2
+W13,Custom number plates,P16,You can order custom number plates online and have them delivered or collect them at a service centre.,2
+W14,Club permit,P17,The Club Permit Scheme allows limited road use of eligible vehicles; you must be a member of an approved club and submit a signed application with photos.,2
+W14,Club permit,P11,Some heavy vehicles and club permit vehicles have different registration requirements.,1
+W15,Roadworthy certificate,P18,A current roadworthy certificate is generally required when a vehicle is sold or re-registered in Victoria.,2
+W16,Vehicle inspection,P19,"Some services require a vehicle inspection; if an inspection is needed, VicRoads will advise how to book and what documents to bring.",2
+W17,Heavy vehicle licence,P20,"Heavy vehicle licences require minimum experience periods, medical fitness, and assessment or testing with an accredited provider.",2
+W18,Motorcycle LAMS,P21,Learner and restricted riders must use LAMS-approved motorcycles that meet power-to-weight limits.,2
+W19,Demerit points,P22,You can view your demerit points and licence status online via your myVicRoads account.,2
+W20,Interlock,P23,"If you have an alcohol interlock condition, you must only drive vehicles fitted with an approved interlock until your condition ends.",2
+W21,Reschedule tests,P24,You can reschedule or cancel a drive test or hazard perception test online before the cut-off time; fees may apply.,2
+W22,myVicRoads account,P25,"Create a myVicRoads account to manage your licence and registration, book tests, and update your details online.",2
+W23,Replace number plates,P26,"If your number plates are lost, stolen or damaged, report to police if required and order replacement plates from VicRoads.",2
+W24,Proof of identity,P27,You must provide evidence of identity and Victorian residential address to complete many VicRoads transactions.,2
+W25,Selling a car,P28,"When selling a registered vehicle, provide a receipt and ensure the buyer completes the online transfer within the required timeframe.",2
+W26,Overseas licence transfer,P31,"If you hold an overseas licence, you may be able to convert to a Victorian licence. You will need identity and Victorian residency documents; tests may be required depending on your circumstances.",2
+W27,Medical fitness to drive,P32,"If you have a medical condition that may affect your driving, you must notify VicRoads. Medical reports may be required and licence conditions can apply.",2
+W28,Vehicle identity validation,P33,A Vehicle Identity Validation (VIV) inspection is required for certain repaired written-off vehicles before registration can be approved.,2
+W29,Unregistered vehicle permit,P34,An Unregistered Vehicle Permit allows limited road use of an unregistered vehicle for specific trips; conditions apply and the vehicle must be roadworthy.,2
+W30,Proof of ownership,P35,"To prove ownership for a vehicle transaction, provide a receipt or invoice showing seller and buyer details, VIN or registration number, date and price.",2
+W31,Probationary licence conditions,P36,Probationary drivers must display P plates and comply with licence restrictions set by VicRoads.,2
+W32,Learner logbook hours,P37,Learner drivers should record supervised driving in an approved logbook or app; minimum supervised hours may apply.,2
+W33,Concessions,P38,Eligible concession card holders may receive discounts on registration and licence fees.,2
+W34,Change garaging address,P39,Update the garaging address of a vehicle with VicRoads when it changes.,2
+W35,Demerit suspension options,P40,"If you reach the demerit point limit, you may face a suspension or be offered a good behaviour period.",2
+W36,Licence check service,P41,You can check the status of a Victorian driver licence online with the required licence details.,2
+W37,Update contact details,P42,Update your contact details such as email and phone in your myVicRoads account.,2
+W38,Replacement registration certificate,P43,You can order a replacement vehicle registration certificate online.,2
+W39,Transfer fees and duty,P44,Vehicle transfer requires payment of transfer fee and motor vehicle duty; the amount depends on the vehicle and sale details.,2
+W40,Club permit renewal,P45,"Club permit renewals are processed with a signed renewal form through your club and VicRoads, with applicable fees.",2
+W40,Club permit renewal,P17,The Club Permit Scheme allows limited road use of eligible vehicles; you must be a member of an approved club and submit a signed application with photos.,1
