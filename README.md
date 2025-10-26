@@ -32,7 +32,7 @@ Key pieces:
    - `python -m venv .venv`
    - Windows PowerShell: ``.\.venv\Scripts\Activate``
    - macOS/Linux: `source .venv/bin/activate`
-   - `pip install -r src/requirements.txt`
+   - `pip install -r requirements.txt`
 
 2) Ensure Java is available (`java -version`). If using Java 21, the repository already applies a Lucene JVM flag at runtime to avoid memory segment warnings.
 
